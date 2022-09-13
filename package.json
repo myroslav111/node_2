@@ -1,0 +1,28 @@
+{
+  "name": "node_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myroslav111/node_2.git"
+  },
+  "author": "myroslav111",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myroslav111/node_2/issues"
+  },
+  "homepage": "https://github.com/myroslav111/node_2#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^9.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19",
+    "tsc": "^2.0.4"
+  }
+}
