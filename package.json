@@ -19,7 +19,8 @@
   "homepage": "https://github.com/myroslav111/node_2#readme",
   "dependencies": {
     "colors": "^1.4.0",
-    "commander": "^9.4.0"
+    "commander": "^9.4.0",
+    "nanoid": "^3.3.3"
   },
   "devDependencies": {
     "nodemon": "^2.0.19",
